@@ -40,15 +40,7 @@ import premium
 | 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)                                                                | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/1262.py) |
 | 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)                     | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/1263.py) |
 
-## Built With
-
-- [Python :heart:](https://www.python.org/) where simple is better than complex.
-
-## Contributing
-
-Please open a pull request if you need!
 
 
-## Acknowledgments
 
-- Thank you for anyone sharing invaluable ideas on discussions on Leetcode :raised_hands:
+@kinfe19
