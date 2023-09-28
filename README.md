@@ -36,9 +36,6 @@ import premium
 | 18   | [4Sum](https://leetcode.com/problems/4sum)                                                                                                                      | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/18.py)   |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)                                                              | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/19.py)   |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                                                            | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/20.py)   |
-| 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)                                       | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/1261.py) |
-| 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)                                                                | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/1262.py) |
-| 1263 | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)                     | [python3](https://github.com/cnkyrpsgl/leetcode/blob/master/solutions/python3/1263.py) |
 
 
 @kinfe19
